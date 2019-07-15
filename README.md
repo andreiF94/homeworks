@@ -1,4 +1,5 @@
 # Домашние работы
 Домашние работы Федорова Андрея, курс Веб-Старт
 
-https://andreif94.github.io/homeworks/lesson_3/src урок №3
+урок №3:
+https://andreif94.github.io/homeworks/lesson_3/src
